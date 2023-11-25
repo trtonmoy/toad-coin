@@ -26,7 +26,7 @@
           children: [
             (0, r.jsxs)(l.default, {
               children: [
-                (0, r.jsx)("title", { children: "$AVOCATO" }),
+                (0, r.jsx)("title", { children: "$toad coin" }),
                 (0, r.jsx)("link", { rel: "icon", href: "/favicon.ico" }),
                 (0, r.jsx)("link", {
                   href: "https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin&family=Rampart+One&display=swap",
@@ -46,26 +46,26 @@
                       (0, r.jsx)("h1", {
                         className:
                           "font-heading text-2xl sm:text-3xl lg:text-5xl max-w-[700px] leading-tight sm:leading-tight lg:leading-tight w-full",
-                        children: "Welcome to AVOCATO Coin",
+                        children: "Welcome to TOAD Coin",
                       }),
                       (0, r.jsx)("div", {
                         className: "max-w-[600px] w-full mt-4",
                         children:
-                          "There's a AVOCATO in town. We are taking on the likes of $AVOCATO to become the top token expert.",
+                          "There's a TOAD in town. We are taking on the likes of $TOAD to become the top token expert.",
                       }),
                       (0, r.jsxs)("div", {
                         className: "flex flex-wrap gap-4 items-center mt-4",
                         children: [
                           (0, r.jsx)("a", {
                             target: "_blank",
-                            href: "https://app.uniswap.org/tokens/ethereum/0xc64d298ba9a09d3882ed03f7c2e897b08c3d7a38",
+                            href: "https://app.uniswap.org/tokens/ethereum/0X000000000000000000000000000",
                             className:
                               "py-2 px-8 bg-black text-white rounded-full",
                             children: "Buy Now",
                           }),
                           (0, r.jsx)("a", {
                             target: "_blank",
-                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x664fba8e24d19b599c5d824f11b544fa5dd8f2f6",
+                            href: "chartlink",
                             className:
                               "py-2 px-8 bg-black text-white rounded-full",
                             children: "Chart",
@@ -77,13 +77,13 @@
                         children: [
                           (0, r.jsx)("a", {
                             target: "_blank",
-                            href: "https://t.me/AvocatoERC",
+                            href: "tglink",
                             className: "p-3 bg-black text-white rounded-full",
                             children: (0, r.jsx)(a.AGi, {}),
                           }),
                           (0, r.jsx)("a", {
                             target: "_blank",
-                            href: "#!",
+                            href: "https://twitter.com/toad_erc",
                             className: "p-3 bg-black text-white rounded-full",
                             children: (0, r.jsx)(a.fWC, {}),
                           }),
@@ -105,8 +105,7 @@
                           " ",
                           (0, r.jsx)("span", {
                             className: "text-xs sm:text-base",
-                            children:
-                              "0xc64d298ba9a09d3882ed03f7c2e897b08c3d7a38",
+                            children: "0X000000000000000000000000000",
                           }),
                         ],
                       }),
